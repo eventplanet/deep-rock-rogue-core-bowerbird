@@ -1,0 +1,35 @@
+{
+  "keyword": "Deep Rock Galactic: Rogue Core",
+  "slug": "deep-rock-rogue-core-bowerbird",
+  "game": "deep-rock-rogue-core",
+  "lang": "en",
+  "variant": "multi",
+  "variant_title": "Multi-Cheat Pack",
+  "angle": 6,
+  "short_link": "https://share.google/mabI0vBtneI0zkIX0",
+  "destination": "https://githubguru.at/s/1xvA0cXT",
+  "topics": [],
+  "batch": 14,
+  "anticheat": "None (co-op)",
+  "modules": [
+    "aimbot"
+  ],
+  "has_skins": false,
+  "players": 5887,
+  "keepalive": {
+    "file": ".github/workflows/maintenance.yml",
+    "name": "Update repository",
+    "crons": [
+      "37 5 15 * *",
+      "58 10 * * *",
+      "14 14 * * *"
+    ]
+  },
+  "button": {
+    "shape": "s12",
+    "label": "Setup guide",
+    "icon": "download"
+  },
+  "files": 25,
+  "bytes": 1294560
+}
